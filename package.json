@@ -1,0 +1,10 @@
+{
+"description": "serverless wordpress",
+	"scripts": {
+		"build": "diy-pwa build IceHockey",
+		"preview": "diy-pwa preview IceHockey"
+	},
+	"devDependencies": {
+		"diy-pwa": "latest"
+	}
+}
